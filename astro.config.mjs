@@ -4,7 +4,7 @@ import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://umnidev.github.io/landing-page/",
+  site: "https://umni.dev",
   integrations: [
     tailwind(),
     image({
