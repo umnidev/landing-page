@@ -1,32 +1,32 @@
 [
   {
-    "title": "PoliNations",
-    "image": "./images/polinations.png",
-    "url": "https://polinations.com/"
+    "title": "Charlie Chimp",
+    "image": "./images/profile1.png",
+    "url": "Security & Research"
   },
   {
-    "title": "Astro Docs",
-    "image": "./images/astro-docs.png",
-    "url": "https://docs.astro.build/"
+    "title": "Bella Bonobo",
+    "image": "./images/profile2.png",
+    "url": "Data Science & Analytics"
   },
   {
-    "title": "<div>RIOTS",
-    "image": "./images/divriots.png",
-    "url": "https://divriots.com/"
+    "title": "Orang Utan",
+    "image": "./images/profile3.png",
+    "url": "Web Development"
   },
   {
-    "title": "Designcember",
-    "image": "./images/designcember.png",
-    "url": "https://designcember.com/"
+    "title": "Harry Hominid",
+    "image": "./images/profile4.png",
+    "url": "AI & Machine Learning"
   },
   {
-    "title": "The Firebase Blog",
-    "image": "./images/firebase-blog.png",
-    "url": "https://firebase.blog/"
+    "title": "Max Macaque",
+    "image": "./images/profile5.png",
+    "url": "DevOps & Cloud Infrastructure"
   },
   {
-    "title": "Corset",
-    "image": "./images/corset.png",
-    "url": "https://corset.dev/"
+    "title": "Tina Tarsier",
+    "image": "./images/profile6.png",
+    "url": "Team Management & Agile Coach"
   }
 ]
